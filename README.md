@@ -36,7 +36,7 @@
 <br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
 </div>
 <div align="center">
-<p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
 <br></div>
 
