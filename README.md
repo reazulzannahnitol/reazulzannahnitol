@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, This is Reazul Zannah Nitol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
+<br><br><br>
 
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
@@ -7,7 +7,7 @@
 ## 🙋‍♂️
 - 💻 I’m currently working on laravel projects ;
 - My portfolio website link: https://reazulzannahnitol.github.io/ReazulsPortfolio
-- My Portfolio CV link: https://reazulzannahnitol.github.io/Reazuls-CV-Portfolio/
+- My Portfolio CV link: https://reazulzannahnitol.github.io/Reazuls-CV-Portfolio
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
 <br><br><br>
