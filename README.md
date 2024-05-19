@@ -21,34 +21,13 @@
 
 </p>
 
-<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
 ---
 
 
 
 ---
-<!---
-[![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code)
-<br>
 
-
-
-
-
-<br><details> <summary align="center"> </samp></summary>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
-</p></details>
- 
-
-
- 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayush-Parikh Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg)</div><br>
-<div align="center">
--->
 
 <div align="center">
   
@@ -77,12 +56,6 @@
 <br>
 </p>
 
-<!---
-<div align="center">
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p>
-</div>
-<br>
 
 
 <h3 align="right">👋 Have the Best Day you can 🌈</h3>
