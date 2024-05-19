@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, Reazul Zannah Nitol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey there, This is Reazul Zannah Nitol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
@@ -52,7 +52,7 @@
   <i>Ask me anything I'am Happy to Help! </i>
   <br><br>
 <a target="_blank" href="https://www.linkedin.com/in/reazulzannahnitol"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:reazulzannahnitol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:reazulzannah465@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
 
