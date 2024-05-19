@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, This is Reazul Zannah Nitol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-
-<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 <br>
+<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+
 
 ## 🙋‍♂️
 - 💻 I’m currently working on laravel projects ;
