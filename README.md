@@ -8,7 +8,7 @@
 - 💻 I’m currently working on laravel projects ;
 - My portfolio website link: https://reazulzannahnitol.github.io/ReazulsPortfolio
 - My portfolio CV link:
-  https://reazulzannahnitol.github.io/Reazuls-CV-Portfolio
+  <br>https://reazulzannahnitol.github.io/Reazuls-CV-Portfolio
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
 <br><br><br>
