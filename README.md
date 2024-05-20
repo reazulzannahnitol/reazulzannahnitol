@@ -9,6 +9,7 @@
 - My portfolio website link: https://reazulzannahnitol.github.io/Reazuls-Website-Portfolio
 - My portfolio CV link:
   <br>https://reazulzannahnitol.github.io/Reazuls-CV-Portfolio
+- Enjoy online snake game: https://reazulzannahnitol.github.io/Reazuls-Snake-game
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
 <br><br><br>
