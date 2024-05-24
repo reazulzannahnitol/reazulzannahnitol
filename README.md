@@ -2,7 +2,7 @@
 
 
 <img align="right" alt="Coding" width="400" height="300" top="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-<img align="right" alt="Coding" width="400" height="300" top="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+
 
 
 ## 🙋‍♂️
@@ -12,6 +12,7 @@
   <br>https://reazulzannahnitol.github.io/Reazuls-CV-Portfolio
 - Enjoy online snake game: https://reazulzannahnitol.github.io/Reazuls-Snake-game
 - Naruto's eye following your cursor!: https://reazulzannahnitol.github.io/Reazul-eye-follow
+  <img align="right" alt="Coding" width="400" height="300" top="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 - Enjoy my super cool online calculator: https://reazulzannahnitol.github.io/Reazul-Calculator
 - A neon light will follow your mouse!: <br> https://reazulzannahnitol.github.io/reazul-neon-follow-cursor
 - Responsive calculator for all device: <br> https://reazulzannahnitol.github.io/reazuls-responsive-calculator <br><br>
