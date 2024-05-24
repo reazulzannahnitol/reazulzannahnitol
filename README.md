@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, This is Reazul Zannah Nitol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 
-<img align="right" alt="Coding" width="400" height="300" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<img align="right" alt="Coding" width="400" height="300" padding-top="40px" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 
 ## 🙋‍♂️
@@ -12,7 +12,8 @@
 - Enjoy online snake game: https://reazulzannahnitol.github.io/Reazuls-Snake-game
 - Naruto's eye following your cursor!: https://reazulzannahnitol.github.io/Reazul-eye-follow
 - Enjoy my super cool online calculator: https://reazulzannahnitol.github.io/Reazul-Calculator
-- A neon light will follow your mouse!: <br> https://reazulzannahnitol.github.io/reazul-neon-follow-cursor <br><br>
+- A neon light will follow your mouse!: <br> https://reazulzannahnitol.github.io/reazul-neon-follow-cursor
+- Responsive calculator for all device:  <br><br>
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
 <br><br><br>
