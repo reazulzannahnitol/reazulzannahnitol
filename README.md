@@ -13,7 +13,7 @@
 - Naruto's eye following your cursor!: https://reazulzannahnitol.github.io/Reazul-eye-follow
 - Enjoy my super cool online calculator: https://reazulzannahnitol.github.io/Reazul-Calculator
 - A neon light will follow your mouse!: <br> https://reazulzannahnitol.github.io/reazul-neon-follow-cursor
-- Responsive calculator for all device: https://reazulzannahnitol.github.io/reazuls-responsive-calculator <br><br>
+- Responsive calculator for all device: <br> https://reazulzannahnitol.github.io/reazuls-responsive-calculator <br><br>
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
 <br><br><br>
