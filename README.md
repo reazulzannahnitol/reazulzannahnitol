@@ -13,7 +13,7 @@
 - Enjoy online snake game: https://reazulzannahnitol.github.io/Reazuls-Snake-game
 - Naruto's eye following your cursor!: https://reazulzannahnitol.github.io/Reazul-eye-follow
 - Enjoy my super cool online calculator: https://reazulzannahnitol.github.io/Reazul-Calculator
-  <img align="right" alt="Coding" width="400" height="250" top="400" src="https://i.gifer.com/3AyY.gif">
+  <img align="right" alt="Coding" width="400" height="250" top="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 - A neon light will follow your mouse!: <br> https://reazulzannahnitol.github.io/reazul-neon-follow-cursor
 - Responsive calculator for all device: <br> https://reazulzannahnitol.github.io/reazuls-responsive-calculator <br><br>
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
