@@ -16,7 +16,7 @@
   <img align="right" alt="Coding" width="400" height="250" top="400" src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif">
 - A neon light will follow your mouse!: <br> https://reazulzannahnitol.github.io/reazul-neon-follow-cursor
 - Responsive calculator for all device: <br> https://reazulzannahnitol.github.io/reazuls-responsive-calculator
-- Naruto's eye following cursor!(Responsive) https://reazulzannahnitol.github.io/eye-follow-responsive <br><br>
+- Naruto's eye following cursor! (Responsive): https://reazulzannahnitol.github.io/eye-follow-responsive <br><br>
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
 <br><br><br>
